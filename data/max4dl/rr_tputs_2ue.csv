@@ -1,0 +1,7 @@
+mcs,channel_mhz,gi_ns,tput_mbps,origin,n_clients
+5,80,3200,57.9902,client1,2
+5,80,3200,53.7432,client2,2
+5,80,1600,57.9589,client1,2
+5,80,1600,58.0104,client2,2
+5,80,800,61.8083,client1,2
+5,80,800,62.2406,client2,2
